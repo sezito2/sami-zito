@@ -14,5 +14,9 @@
 
 ## Visual Media
 
+Howling Cow Documentary
+
+[Welcome to New York](/visual-media/welcome-to-new-york.md)
+
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-zito/)
