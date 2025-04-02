@@ -1,5 +1,7 @@
 # Welcome to my Portfolio
 
+My portfolio is still under construction, but I am working hard to keep it updated with my latest projects.
+
 ## About Me
 
 ## Projects
