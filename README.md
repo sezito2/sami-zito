@@ -6,9 +6,9 @@ My portfolio is still under construction, but I am working hard to keep it updat
 
 ## Projects
 
-* [**ENG 517 laundry guide**]()
+* [ENG 517 laundry guide]()
   
-* [**EAC 583 course outline**](coalition-development-course/README.md)
+* [EAC 583 course outline](coalition-development-course/README.md)
   
 * **ENG 506 data analysis**:
 
@@ -16,9 +16,10 @@ My portfolio is still under construction, but I am working hard to keep it updat
 
 ## Visual Media
 
-Howling Cow Documentary
+* [Howling Cow Documentary](/visual-media/howling-cow.md)
 
-[Welcome to New York](/visual-media/welcome-to-new-york.md)
+* [Welcome to New York](/visual-media/welcome-to-new-york.md)
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-zito/)
+32
