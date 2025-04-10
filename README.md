@@ -1,16 +1,22 @@
-# Welcome to my Portfolio
+# Sami Zito
 
-My portfolio is still under construction, but I am working hard to keep it updated with my latest projects.
+Welcome to my portfolio!
 
 ## About Me
 
+I am a graduate student working toward my Master of Science in Technical Communication at NC State. I am on track to graduate May 2026.
+
+I have a experience in documentation writing and design, data analysis, and content creation.
+
+This repository showcases my skills and past projects.
+
 ## Projects
 
-* [ENG 517 laundry guide]()
+* [Laundry Guide](/laundry-guide/README.md)
   
-* [EAC 583 course outline](coalition-development-course/README.md)
+* [Coalition Development Course](coalition-development-course/README.md)
   
-* **ENG 506 data analysis**:
+* [IUD Data Analysis](/iud-data/README.md)
 
 ## Writing Samples
 
@@ -22,4 +28,3 @@ My portfolio is still under construction, but I am working hard to keep it updat
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-zito/)
-32
