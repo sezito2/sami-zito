@@ -4,11 +4,7 @@ Welcome to my portfolio!
 
 ## About Me
 
-I am a graduate student working toward my Master of Science in Technical Communication at NC State. I am on track to graduate May 2026.
-
-I have a experience in documentation writing and design, data analysis, and content creation.
-
-This repository showcases my skills and past projects.
+I am a graduate student working toward my Master of Science in Technical Communication at NC State. I am on track to graduate May 2026. I have a experience in documentation writing and design, data analysis, and content creation. This repository showcases my skills and past projects.
 
 ## Projects
 
@@ -19,6 +15,8 @@ This repository showcases my skills and past projects.
 * [IUD Data Analysis](/iud-data/README.md)
 
 ## Writing Samples
+
+View my writing samples in my [Google Drive](https://drive.google.com/drive/folders/13-Vj_E7eHmO5yI3vtbrbSfjL8rI0fotC?usp=drive_link)
 
 ## Visual Media
 
