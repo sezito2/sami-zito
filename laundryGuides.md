@@ -8,13 +8,13 @@ The guide was designed to support first-time users by breaking down the laundry 
 ## Audience
 - College students with little or no prior laundry experience  
 - Residents using shared or unfamiliar laundry facilities  
-- Users navigating different machine types and payment systems  
+- Users navigating different machine types and/or environments  
 
 ## Problem
 Many students enter college without experience using laundry machines, particularly in communal or shared environments. Existing instructions are often:
 - not geared toward users of communal machines 
 - lacking step-by-step guidance  
-- not tailored to the specific machine used in the residence hall  s
+- not tailored to the specific machine used in the residence halls
 
 This creates confusion and errors when completing basic tasks.
 
