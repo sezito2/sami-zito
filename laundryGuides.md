@@ -1,7 +1,7 @@
 # NC State Laundry Guide: Task-Based Documentation for First-Time Laundry Users
 
 ## Overview
-This project provides structured, user-centered documentation to help college students successfully complete laundry tasks using a variety of residential setups, including communal laundry rooms, in-unit machines, and off-campus facilities.
+This project provides structured, user-centered documentation to help college students complete laundry tasks using a variety of residential setups, including communal laundry rooms, in-unit machines, and off-campus facilities.
 
 The guide was designed to support first-time users by breaking down the laundry process into clear, task-based instructions and adapting content to different user scenarios.
 
@@ -30,7 +30,7 @@ This creates confusion and errors when completing basic tasks.
 Created three versions of the guide to reflect different user environments:
 - Communal laundry facilities  
 - Apartment (in-unit) machines  
-- Off-campus laundry settings  
+- Off-campus laundry  
 
 This approach ensures users receive relevant instructions based on their specific context.
 
